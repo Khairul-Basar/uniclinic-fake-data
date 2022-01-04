@@ -4,41 +4,95 @@
     "name": "Andrew Smith, MD",
     "img": "https://i.ibb.co/MGH8SQR/smith.jpg",
     "desc": "Our clinic accepts most major health insurance plans and providers to ensure you.",
-    "speciality": "Cancer Care"
+    "speciality": "Cancer Care",
+
+    "phone":"+88017******",
+    "email":"example@ex.com",
+    "education":"Christian Medical College and Hospital Ludhiana",
+    "certification":"American Board of Radiology - Therapeutic Radiology",
+    "expertise":"Therapeutic Radiology",
+    "practice":15,
+    "workingday":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    "workinghour":"11am - 10pm"
   },
   {
     "id": 2,
     "name": "Adam Johnson, MD",
     "img": "https://i.ibb.co/gzc2NPS/adam.jpg",
     "desc": "He had a last view back on his hometown Bookmarksgrove, the headline of Alphabet Village.",
-    "speciality": "Gasto Care"
+    "speciality": "Gasto Care",
+
+    "phone":"+88017******",
+    "email":"example@ex.com",
+    "education":"Mayo School of Graduate Medical Education - Fellowship, Gastroenterology",
+    "certification":"American Board of Internal Medicine - Certified in Gastroenterology",
+    "expertise":"Gastro Care",
+    "practice":11,
+    "workingday":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    "workinghour":"11am - 10pm"
   },
   {
     "id": 3,
     "name": "Amy Brown, MD",
     "img": "https://i.ibb.co/XFVFd2k/amy.jpg",
     "desc": "A small river flows and supplies it with the necessary regelialia. It is roasted parts of sentences.",
-    "speciality": "Urgent Care"
+    "speciality": "Urgent Care",
+
+    "phone":"+88017******",
+    "email":"example@ex.com",
+    "education":"Southern University at New Orleans",
+    "certification":"American Board of Internal Medicine",
+    "expertise":"Family Medicine",
+    "practice":15,
+    "workingday":["Monday","Tuesday","Wednesday","Thursday","Friday","sunday"],
+    "workinghour":"11am - 10pm"
   },
   {
     "id": 4,
     "name": "Maria, DO",
     "img": "https://i.ibb.co/KrxjnkH/maria.jpg",
     "desc": "Because there were thousands of bad Commasand devious Semikoli, but she didn’t listen.",
-    "speciality": "Eye Care"
+    "speciality": "Eye Care",
+
+    "phone":"+88017******",
+    "email":"example@ex.com",
+    "education":"Yale-New Haven Hospital",
+    "certification":"American Board of Surgery - Certified in Surgery",
+    "expertise":"Surgical Critical Care",
+    "practice":22,
+    "workingday":["Monday","Tuesday","Wednesday","Thursday","Friday","sunday"],
+    "workinghour":"11am - 10pm"
   },
   {
     "id": 5,
     "name": "Jane Green, MD",
     "img": "https://i.ibb.co/64SvgNH/jane.jpg",
     "desc": "A small river flows and supplies it with the necessary regelialia. It is roasted parts of sentences.",
-    "speciality": "Primary Care"
+    "speciality": "Primary Care",
+
+    "phone":"+88017******",
+    "email":"example@ex.com",
+    "education":"Duke University Hospital Residency, Orthopedic Surgery",
+    "certification":"American Board of Orthopaedic Surgery",
+    "expertise":"Orthopaedic Surgery",
+    "practice":14,
+    "workingday":["Saturday","sunday","Tuesday","Wednesday","Thursday","Friday"],
+    "workinghour":"11am - 10pm"
   },
   {
     "id": 6,
     "name": "Helen Traum, MD",
     "img": "https://i.ibb.co/XpqBtDX/helen.jpg",
     "desc": "She had a last view back on  her hometown Bookmarksgrove, the headline of Alphabet Village.",
-    "speciality": "Orthopedic Care"
+    "speciality": "Orthopedic Care",
+
+    "phone":"+88017******",
+    "email":"example@ex.com",
+    "education":"Damascus University Faculty of Medicine",
+    "certification":"PA State Medical License",
+    "expertise":"Ophthalmology",
+    "practice":9,
+    "workingday":["Saturday","sunday","Tuesday","Wednesday","Thursday","Friday"],
+    "workinghour":"11am - 10pm"
   }
 ]
